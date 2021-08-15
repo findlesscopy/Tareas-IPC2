@@ -61,3 +61,6 @@ lista_e.recorrer()
 
 lista_e.eliminar(201915059)
 lista_e.recorrer()
+
+lista_e.eliminar(201915060)
+lista_e.recorrer()
